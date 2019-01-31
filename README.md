@@ -1,3 +1,6 @@
+### 0 POINTS
+### KEY: No submission in GitHub :-( I know u did the work. Plz always chk GitHub b4 u leave
+
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
